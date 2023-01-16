@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Convertex</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="numbers">
+        <item>British Pound = 0.009</item>
+        <item>Euro = 0.0108</item>
+        <item>Swiss France = 0.0115</item>
+        <item>Canadian Dollar = 0.0156</item>
+        <item>Japaness Yen = 1.29</item>
+
+
+    </string-array>
+    <string name="RadioFirst">Tk less than 1</string>
+    <string name="RadioSecond">TK is more than 10 thousand</string>
+    <string name="RadioThird">TK  is more than 50 thousand</string>
+    <string name="RadioFourth">TK is more than 1 Lakh</string>
+    <string name="currency">Currency Rate(For Bangladeshi One Taka)</string>
+
+
+</resources>
